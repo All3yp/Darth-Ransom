@@ -1,0 +1,20 @@
+{
+  "name": "curse_ransom",
+  "version": "1.0.0",
+  "description": "Um ransonware escrito em Javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ransonware",
+    "Crypto",
+    "Nodejs"
+  ],
+  "author": "Alley Pereira",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "uniqid": "^5.0.3"
+  }
+}
