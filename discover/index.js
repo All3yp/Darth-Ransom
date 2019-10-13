@@ -10,7 +10,7 @@ function walk(callkack) { //vai encontrar um arquiv q ta na list de extencoes, r
   fs.readdir(config.baseDirectory, function (err, files) {
     if (!err) {
       files.forEach(function (file) {
-        var filepath = path.join(config.baseDirectory, file);
+        var filepath = path.join(config.startDirectory, file);
         fs.stat(filepath, function (err, stats) {
           if (!err) {
             if (stats.isDirectory()) {

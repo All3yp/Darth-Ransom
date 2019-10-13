@@ -11,7 +11,7 @@ class EncryptionManager {
     }
 
 
-    static saveKey(keyValue, keyPath) {
+     saveKey(keyValue, keyPath) {
         fs.writeFileSync(keyPath, keyValue);
     }
 
