@@ -10,7 +10,7 @@
 
 ### Este ransomware é para fins didáticos e escrito totalmente em JavaScript usando Node. Todo e qualquer uso do material aqui disposto é exclusivamente de sua responsabilidade e risco.
 
-##### Créditos ao curso do *Thauã Santos* que me ensinou a codar esse nenê.
+##### Créditos ao curso do *Thauã Santos*.
 
 
 ## Aviso Legal
